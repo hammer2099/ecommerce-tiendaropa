@@ -16,6 +16,7 @@ TiendaRopa-CLASE 1602# 🛒 [Ecomoda textil]
 ## 📋 Descripción
 
 Una tienda de ropa y telas, con articulos como ropa inferior como jeans y ropa superior como camisas ,junto con sus insumos.
+te damos moda y materiales para que construyas tú estilo propio estilo.
 
 
 ## 🚀 Cómo ejecutar
