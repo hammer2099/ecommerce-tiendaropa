@@ -16,9 +16,12 @@ TiendaRopa-CLASE 1602# 🛒 [ECOMODA TEXTIL]
 ## 📋 Descripción
 
 Nuestro proyecto cierra la brecha entre el diseño y la confección, ofreciendo un catálogo especializado que incluye:
+
 ​Colecciones completas de prendas para dama y caballero.
+
 ​Una amplia variedad de telas por metraje y materiales esenciales para la confección, permitiendo a nuestros clientes crear su propio estilo desde la base.
-te damos moda y materiales para que construyas tú propio estilo.
+
+"te damos moda y materiales para que implementes tú propio estilo."
 
 
 ## 🚀 Cómo ejecutar
