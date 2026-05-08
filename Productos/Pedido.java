@@ -1,6 +1,7 @@
 package Productos;
 import Abstractas.Producto;
 import Abstractas.Pago;
+import Usuarios.Cliente;
 import java.util.ArrayList;
 import java.util.List;
 
