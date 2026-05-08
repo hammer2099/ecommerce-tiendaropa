@@ -1,5 +1,5 @@
 # ecommerce-TiendaRopa
-TiendaRopa-CLASE 1602# 🛒 [Nombre del proyecto]
+TiendaRopa-CLASE 1602# 🛒 [Ecomoda textil]
 
 > Proyecto final — Java POO · [Curso] · [2026]
 
@@ -15,12 +15,12 @@ TiendaRopa-CLASE 1602# 🛒 [Nombre del proyecto]
 
 ## 📋 Descripción
 
-Una tienda de ropa con articulos como jeans y sueter junto con sus insumos
+Una tienda de ropa y telas, con articulos como ropa inferior como jeans y ropa superior como camisas ,junto con sus insumos.
 
----
 
 ## 🚀 Cómo ejecutar
-Ingresando tu nombre y contraseña en caso de ser usuario o en caso de ser administrador ingresa su contraseña y nombre para admin
+Ingresando tu nombre y contraseña en caso de ser usuario o en caso de ser administrador ingresa su contraseña y nombre para admin.
+
 ### Requisitos
 - Java JDK 17+
 - <!-- IDE, BD, etc. -->
