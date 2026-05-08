@@ -1,5 +1,5 @@
 # ecommerce-TiendaRopa
-TiendaRopa-CLASE 1602# 🛒 [Ecomoda textil]
+TiendaRopa-CLASE 1602# 🛒 [ECOMODA TEXTIL]
 
 > Proyecto final — Java POO · [Curso] · [2026]
 
