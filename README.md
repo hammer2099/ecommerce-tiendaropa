@@ -15,7 +15,7 @@ TiendaRopa-CLASE 1602# 🛒 [ECOMODA TEXTIL]
 
 ## 📋 Descripción
 
-es un sistema de comercio electrónico integral desarrollado en Java, diseñado para gestionar de manera eficiente la comercialización de moda terminada y materiales textiles. Nuestra plataforma cierra la brecha entre el diseño y la confección, ofreciendo un catálogo especializado que incluye:
+Nuestro proyecto cierra la brecha entre el diseño y la confección, ofreciendo un catálogo especializado que incluye:
 ​Colecciones completas de prendas para dama y caballero.
 ​Una amplia variedad de telas por metraje y materiales esenciales para la confección, permitiendo a nuestros clientes crear su propio estilo desde la base.
 te damos moda y materiales para que construyas tú propio estilo.
